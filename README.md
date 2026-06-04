@@ -1,9 +1,9 @@
 # PMA-K1-FinalProjectSpaceshipTitanic
 Final Project PMA - Spaceship Titanic Kaggle Competition | Machine Learning Classification
 
-# 🚀 Final Project PKA — Spaceship Titanic
+# 🚀 Final Project PMA — Spaceship Titanic
 
-Final Project Mata Kuliah Pengantar Kecerdasan Artifisial (PKA)  
+Final Project Mata Kuliah PMA  
 Universitas Gadjah Mada | TA 2025
 
 ---
